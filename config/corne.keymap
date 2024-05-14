@@ -95,9 +95,9 @@
         nav_layer {
             label = "NAV";
             bindings = <
-&kp LG(LC(TAB))  &trans  &kp LG(LEFT_BRACKET)  &kp LS(TAB)        &kp TAB          &kp LG(RIGHT_BRACKET)    &kp LA(LEFT)       &kp LA(DOWN)  &kp LA(UP)  &kp LA(RIGHT)  &trans  &trans
-&kp ESC          &trans  &trans                &kp K_SCROLL_DOWN  &kp K_SCROLL_UP  &trans                   &kp LEFT           &kp DOWN      &kp UP      &kp RIGHT      &trans  &trans
-&trans           &trans  &kp HOME              &kp PG_DN          &kp PG_UP        &kp END                  &kp LG(LEFT)       &kp LG(DOWN)  &kp LG(UP)  &kp LG(RIGHT)  &trans  &trans
+&kp LG(LC(TAB))  &trans  &kp LG(LEFT_BRACKET)  &kp LS(TAB)        &kp TAB          &kp LG(RIGHT_BRACKET)    &kp LA(LEFT)       &kp LA(DOWN)  &kp LA(UP)  &kp LA(RIGHT)  &kp HOME    &kp PAGE_UP
+&kp ESC          &trans  &trans                &kp K_SCROLL_DOWN  &kp K_SCROLL_UP  &trans                   &kp LEFT           &kp DOWN      &kp UP      &kp RIGHT      &kp INSERT  &kp PAGE_DOWN
+&trans           &trans  &kp HOME              &kp PG_DN          &kp PG_UP        &kp END                  &kp LG(LEFT)       &kp LG(DOWN)  &kp LG(UP)  &kp LG(RIGHT)  &kp DEL     &kp END
                                                &trans             &trans           &trans                   &kp LC(LG(SPACE))  &trans        &trans
             >;
         };
