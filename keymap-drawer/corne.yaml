@@ -39,8 +39,8 @@ layers:
   - LEFT ALT
   - LEFT GUI
   - nav
-  - BSPC
   - SPACE
+  - BACKSPACE
   - symbols
   - ENTER
   symbols:
