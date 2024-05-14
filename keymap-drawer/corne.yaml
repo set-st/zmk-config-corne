@@ -97,8 +97,8 @@ layers:
   - Alt+ DOWN
   - Alt+ UP
   - Alt+ RIGHT
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - HOME
+  - PAGE UP
   - ESC
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -109,8 +109,8 @@ layers:
   - DOWN
   - UP
   - RIGHT
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - INSERT
+  - PAGE DOWN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - HOME
@@ -121,8 +121,8 @@ layers:
   - Gui+ DOWN
   - Gui+ UP
   - Gui+ RIGHT
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - DEL
+  - END
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
